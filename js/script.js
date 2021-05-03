@@ -132,7 +132,7 @@ function print(array) {
     });
 }
 
-// Raccogliere tutti tipi di icone nel arrey
+// Raccogliere tutti tipi di icone nel array
 function getTypes(array) {
     const types = [];
     array.forEach((item) => {
